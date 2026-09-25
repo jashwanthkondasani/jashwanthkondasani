@@ -1,13 +1,13 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhileswar-kamale/">Akhileswar Kamale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhileswar-kamale/">Jashwanth Kondasani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 ## Core Competencies
 
 👨🏻‍💻 **About Me** 😊 <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
 
-- **Hello @everyone, This side <a href= "https://www.linkedin.com/in/akhileswar-kamale/">Akhileswar Kamale</a> Currently in Final year of Bachelors in Technology (Cyber Security), India.**
+- **Hello @everyone, This side <a href= "https://www.linkedin.com/in/jashwanth-reddy-3919152a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">Akhileswar Kamale</a> Currently in Final year of Bachelors in Technology (Cyber Security), India.**
 - **Sri Venkateswara College of Engineering**
-- **All of my projects are available at <a href="https://github.com/Akhileswar6">GitHub</a>**
-- **How to reach me akhilkamale@gmail.com**
+- **All of my projects are available at <a href="https://github.com/jashwanthkondasani">GitHub</a>**
+- **How to reach me jashwanthkumarreddy53@gmail.com**
 
 
 <p >
@@ -26,19 +26,19 @@
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/akhileswar-kamale/">
+<a href="https://www.linkedin.com/in/jashwanth-reddy-3919152a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
-<a href="https://leetcode.com/u/Akhileswar6/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
+<!-- <a href="https://leetcode.com/u/Akhileswar6/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/> -->
 </a>
-<a href="https://auth.geeksforgeeks.org/user/akhil">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
+<!-- <a href="https://auth.geeksforgeeks.org/user/akhil">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/> -->
 </a>
-<a href="https://www.hackerrank.com/profile/akhilkamale">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
+<!-- <a href="https://www.hackerrank.com/profile/akhilkamale">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/> -->
 </a>
-<a href="https://instagram.com/linesbyakhileswar">
+<a href="in/jashwanth-kumar-reddy-94935a333">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
 </a>
 </p>
