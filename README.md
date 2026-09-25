@@ -1,6 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhileswar-kamale/">Jashwanth Kondasani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-## Core Competencies
 <div align="center">
 
 # Hi there, I'm Jashwanth Kumar Reddy 👋
