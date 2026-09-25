@@ -1,109 +1,151 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akhileswar-kamale/">Jashwanth Kondasani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 ## Core Competencies
+<div align="center">
 
-👨🏻‍💻 **About Me** 😊 <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
+# Hi there, I'm Jashwanth Kumar Reddy 👋
 
-- **Hello @everyone, This side <a href= "https://www.linkedin.com/in/jashwanth-reddy-3919152a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">Jashwanth Kondasani</a> Currently in Final year of Bachelors in Technology (aiml aspirant), India.**
-- **Sri Venkateswara College of Engineering**
-- **All of my projects are available at <a href="https://github.com/jashwanthkondasani">GitHub</a>**
-- **How to reach me jashwanthkumarreddy53@gmail.com**
+### Aspiring AI/ML Engineer | Python • Machine Learning • SQL • Cloud
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Building+with+Python+%26+Machine+Learning;RAG+%7C+LLMs+%7C+Data+Analytics;Always+learning%2C+always+building" alt="Typing SVG" />
 
-<p >
-  <img src="https://img.shields.io/badge/From-Tiurpati_-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/College-Sri Venkateswara College of Engineering-purple?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Akhileswar6&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashwanth-reddy-3919152a0)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashwanthkondasani)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashwanthkumarreddy53@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jashwanthkondasani&color=2F80ED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+## 🤖 About Me
 
+- 🎓 Final-year **B.Tech in CSE (AI & ML)** student at **Sri Venkateswara College of Engineering**, Tirupati — GPA **8.45**
+- 💡 Passionate about building **data-driven, intelligent solutions** — from ML models to LLM-powered apps
+- 🛠️ Hands-on experience with **Python, Machine Learning, SQL, RDBMS, Cloud (AWS) and Web Frameworks**
+- 🔭 Currently building projects around **RAG (Retrieval-Augmented Generation), LLMs, and Data Analytics**
+- 📫 Reach me at **jashwanthkumarreddy53@gmail.com**
+- ⚡ Fun fact: I enjoy turning messy, real-world data into models and apps people can actually use
 
+---
 
-<h3 align="left">Connect with me</h3>
+## 🔭 Featured Projects
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jashwanth-reddy-3919152a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-<!-- <a href="https://leetcode.com/u/Akhileswar6/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/> -->
-</a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/akhil">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/> -->
-</a>
-<!-- <a href="https://www.hackerrank.com/profile/akhilkamale">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/> -->
-</a>
-<a href="in/jashwanth-kumar-reddy-94935a333">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
-</p>
+### 🧠 StudyMate-RAG — AI-Powered Study Assistant
+*Jul 2026 – Aug 2026*
+An AI study assistant that answers questions directly from your own study materials using **Retrieval-Augmented Generation**.
+- 📄 Built a document processing pipeline to extract, split, and convert PDF content into vector embeddings for semantic search
+- 🔗 Integrated **Google Gemini LLM** with **ChromaDB** to retrieve relevant context and generate accurate, context-aware answers
+- 🧩 Tech: `Python` `LLM (Gemini)` `ChromaDB` `RAG` `Embeddings`
 
-<h3 align="left">Languages and Tools:</h3>
+**[🔗 Repository](https://github.com/jashwanthkondasani/StudyMate-RAG)**
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+### 📊 Netflix Data Analysis — Exploratory Data Analytics
+*Jan 2026 – Mar 2026*
+An in-depth exploratory analysis of the Netflix titles dataset to uncover trends across genre, release year, country, and rating.
+- 🧹 Performed data cleaning, preprocessing, and EDA using **Pandas** and **NumPy**
+- 📈 Built visualizations with **Matplotlib/Seaborn** to surface content distribution, popular genres, release trends, and country-wise production patterns
+- 🧩 Tech: `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" />
-</a>
+**[🔗 Repository](https://github.com/jashwanthkondasani/Netflix-Data-Analysis)**
 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+---
 
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" style="margin-right:10px;" />
-</a>
+### 🏠 HDI Prediction System — AI/ML Internship Project
+*Jun 2026 – Jul 2026 · AI/ML Intern, APSCHE–SmartBridge*
+An end-to-end ML system that predicts Human Development Index categories from socioeconomic indicators.
+- 🌲 Built a **Random Forest classifier** trained on socioeconomic indicator data
+- 🌐 Developed a **Flask** web application for real-time HDI category prediction, complete with confidence scores
+- 🧩 Tech: `Python` `Machine Learning` `Flask` `Data Preprocessing`
 
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+**[🔗 Repository](https://github.com/jashwanthkondasani/HDI-Prediction-System)**
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right:10px;" />
-</a>
+> 💬 *Note: update the repository links above to match your actual GitHub repo names.*
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" style="margin-right:10px;" />
-</a>
+---
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+## 🛠️ Languages & Tools
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+<div align="center">
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" style="margin-right:10px;" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" />
-</a>
-</p>
+</div>
 
-## Github Stats
+**Core areas:** Machine Learning · RDBMS · Networking · LLMs & RAG · OOP · Cloud Computing
 
-![](https://github-readme-stats.shion.dev/api?username=jashwanthkondasani&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=jashwanthkondasani&theme=dark&hide_border=true)
+---
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jashwanthkondasani&theme=github_dark) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jashwanthkondasani&theme=github_dark)
+## 📜 Certifications
 
-![3D Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jashwanthkondasani&theme=github_dark)
+- ☁️ **AWS Cloud Practitioner** — 2026
+- ☁️ **Cloud Computing** — NPTEL, 2026
+- ☁️ **AWS Cloud Quest: Cloud Practitioner** — 2025
 
+---
 
+## 🎓 Education
+
+| Qualification | Institution | Score | Duration |
+|---|---|---|---|
+| B.Tech, CSE (AI & ML) | Sri Venkateswara College of Engineering, Tirupati | GPA: 8.45 | 09/2023 – 04/2027 |
+| Intermediate | Sri Chaithanya Junior College, Tirupati | 95.8% | 06/2021 – 04/2023 |
+| Schooling | Sri Vidya Jyothi Children's Academy, Chinthaparthy | 99.1% | 06/2020 – 06/2021 |
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs) &amp; Retrieval-Augmented Generation (RAG)
+- Advanced Machine Learning &amp; Deep Learning
+- AWS Cloud Services
+- Data Analytics at scale
+
+## 🎯 2026 Goals
+
+- [x] Build impactful AI/ML portfolio projects
+- [x] Earn AWS cloud certifications
+- [ ] Deepen expertise in LLMs &amp; RAG systems
+- [ ] Secure an AI/ML internship or full-time role
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jashwanthkondasani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthkondasani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwanthkondasani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jashwanth--reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashwanth-reddy-3919152a0)
+[![GitHub](https://img.shields.io/badge/GitHub-jashwanthkondasani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashwanthkondasani)
+[![Gmail](https://img.shields.io/badge/Gmail-jashwanthkumarreddy53%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashwanthkumarreddy53@gmail.com)
+
+⭐️ *Thanks for stopping by — always open to collaborating on AI/ML and data projects!*
+
+</div>
 
 
